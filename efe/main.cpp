@@ -1,1 +1,0 @@
-stonks con mayonesa y un buen sprite :v
