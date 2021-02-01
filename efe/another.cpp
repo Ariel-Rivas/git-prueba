@@ -14,7 +14,7 @@ int const MOD = 10e9+7;
 
 int main()
 {
-    //esto no se deberia poder ver
+
     return 0;
 }
 
@@ -32,6 +32,5 @@ int main()
 	//Despues comes :3
 ----------------------------------------------/
 */
-
 
 
