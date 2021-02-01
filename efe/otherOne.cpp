@@ -14,7 +14,8 @@ int const MOD = 10e9+7;
 
 int main()
 {
-
+    string cad; cin>>cad;
+    cout<<cad<<endl;
     return 0;
 }
 
